@@ -1,0 +1,20 @@
+{
+  "athlete_name": "ATHLETE NAME",
+  "weight_class": "CLASS",
+  "competition": {
+    "name": "COMPETITION",
+    "date": "YYYY-MM-DD"
+  },
+  "lifts": {
+    "squat": null,
+    "bench": null,
+    "deadlift": null,
+    "total": null
+  },
+  "weekly_review": {
+    "bodyweight": null,
+    "sleep_hours": null,
+    "average_session_rpe": null,
+    "notes": ""
+  }
+}
